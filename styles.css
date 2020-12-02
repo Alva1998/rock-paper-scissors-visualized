@@ -1,0 +1,45 @@
+html {
+    background-color: #121212;
+    overflow-y: none;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: #601155;
+    opacity: 100%;
+    user-select: none;
+    font-size: 5em;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    user-select: none;
+}
+
+input {
+    height: 20em;
+    width: 20em;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    user-select: none;
+}
+
+.score {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    user-select: none;
+}
+
+div {
+    display: flex;
+    color: white;
+    justify-content: center;
+}
