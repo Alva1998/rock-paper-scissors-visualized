@@ -1,0 +1,1 @@
+Major Project from The Odin Project that utilizes DOM Manipulation in order to take the Rock Paper Scissors logic learned earlier, and give it an interface. This Simple Rock Paper Scissors project goes up to 5 rounds and declares a winner afterwards. 
